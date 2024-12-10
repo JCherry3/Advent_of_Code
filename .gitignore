@@ -1,0 +1,4 @@
+# Project exclude paths
+/Day-2/target/
+/Day-3/target/
+/out/
